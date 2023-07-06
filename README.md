@@ -19,7 +19,7 @@ Note :- The Converted QBCore File May Not Be 100% QBCore (will be 70-80%)
 
 Search Any script within discord bot directly to github (any QBCore , esx , vrp , any framework script)
 
-DM announcement:- kinda like mass dm all server members at once and announce special things(You already have dm from Ranjit Script's xD)
+DM announcement:- kinda like mass dm all server members at once and announce special things(You already have dm from Fqtt Script's xD)
 
 Customisable:- you can change bot name , bot image(avatar) Bot activity like (playing YOUR TEXT)
 
